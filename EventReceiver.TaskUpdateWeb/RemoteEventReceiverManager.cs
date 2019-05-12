@@ -49,7 +49,7 @@ namespace EventReceiver.TaskUpdateWeb
                 {
                     Helper.AddLog("RemoteEventReceiverManager-AssociateRemoteEventsToHostWeb", "Adding Event Receiver 1" );
                     //should be in config
-                    string url = "https://remoteeventreceiverfortask.azurewebsites.net/Services/AppEventReceiver.svc";
+                    string url = "https://remoteeventreceiverfortaskbs.azurewebsites.net/Services/AppEventReceiver.svc";
                     Helper.AddLog("RemoteEventReceiverManager-AssociateRemoteEventsToHostWeb", url);
                     EventReceiverDefinitionCreationInformation receiver =
                         new EventReceiverDefinitionCreationInformation();

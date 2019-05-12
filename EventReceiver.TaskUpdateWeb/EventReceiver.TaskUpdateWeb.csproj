@@ -137,6 +137,7 @@
     <Content Include="BamertDev.pfx" />
     <None Include="Properties\PublishProfiles\RemoteEventReceiverForTask - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\RemoteEventReceiverForTask - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\RemoteEventReceiverForTaskbs - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

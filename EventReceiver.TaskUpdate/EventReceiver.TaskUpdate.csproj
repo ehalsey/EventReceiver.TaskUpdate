@@ -22,7 +22,7 @@
     <WorkflowPartId>{6085685c-5542-422a-a1f9-425c658925f7}</WorkflowPartId>
     <CspkgPartId>{79a65fd2-fe26-4721-9714-893cdf2af6ed}</CspkgPartId>
     <SqlPackagePartId>{493a5eaf-2917-4926-90ad-8f7690e575b2}</SqlPackagePartId>
-    <ActivePublishProfile>RemoteEventReceiverForTask - Web Deploy</ActivePublishProfile>
+    <ActivePublishProfile>RemoteEventReceiverForTaskbs - Web Deploy</ActivePublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
