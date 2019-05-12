@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="c7a3629f-42b9-4ef8-a796-da643dd33b1e" solutionId="c7a3629f-42b9-4ef8-a796-da643dd33b1e" resetWebServer="false" sharePointProductVersion="16.0" name="EventReceiver.TaskUpdate" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="7c5f7765-6daa-418d-8e7f-7b10748f1f07" />
+  </features>
+</package>
